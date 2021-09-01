@@ -43,6 +43,7 @@ Ip : %s
 Country : %s
 ====================\n'''%(ip,country))
 	f.close()
+	os.system("python2 dfm.py")
 elif save == "n" or save == "N":
-	sys.exit()
+	os.system("python2 dfm.py")
 ##########
