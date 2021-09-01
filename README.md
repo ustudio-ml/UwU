@@ -11,6 +11,9 @@ Learn every code I write.
 
 Good Luck :)
 
+UwU adalah peralatan godam yang dibuat khas untuk #OpsBedil
+daripada DragonForce Malaysia.
+
 Saya bukan Team DFM tetapi saya sangat suka membuat peralatan
 kepada orang-orang yang belajar membuat peralatan godam.
 
