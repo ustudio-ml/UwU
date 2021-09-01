@@ -11,6 +11,8 @@ Learn every code I write.
 
 Good Luck :)
 
+Regards, xMsUwUsMx
+
 ---
 **UwU** adalah peralatan godam yang dibuat khas untuk #OpsBedil
 daripada DragonForce Malaysia.
@@ -24,4 +26,4 @@ Belajar setiap kode yang saya buat.
 
 Semoga berjaya :)
 
-Regards, xMsUwUsMx
+Salam kenal, xMsUwUsMx
